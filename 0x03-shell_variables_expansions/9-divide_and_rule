@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($POWRR / $DIVIDE)) 
+echo $(($POWRR \ $DIVIDE)) 
